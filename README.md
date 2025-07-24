@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Miguel</h1>
-<p align="center">42 student | Exploring game-dev and Cybersecurity | Improving every day</p>
+<p align="center">42 Student | Exploring game-dev and Cybersecurity</p>
 
 ---
 
