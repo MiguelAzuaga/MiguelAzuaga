@@ -3,26 +3,34 @@
 
 ---
 
-### 🛠️ Languages & Tools
-<p align="center">
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" />
-  <img src="https://img.shields.io/badge/Shell-121011?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Shell" />
+### Languages & Tools
+<p align="left">
+  <p align="left">
+    <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=c,cpp,gamemakerstudio,git,github,vscode,linux" />
+    </a>
+  </p>
   <!--<img src="https://img.shields.io/badge/GameMaker-000000?style=for-the-badge&logo=yo&logoColor=white" alt="GameMaker" />-->
 </p>
 
 ---
 
-### 📚 Current Projects
-- 🔧 Working on my [philosophers](https://github.com/MiguelAzuaga/42-philosophers) — a C project about keeping philosophers alive - a 42 Project
-- 🔧 Improving my [libft-projects](https://github.com/MiguelAzuaga/libft-projects) — a custom C library for all 42 projects
-- 🐚 Building tools and testers in Shell
+### Current Projects
+- Working on my [philosophers](https://github.com/MiguelAzuaga/42-philosophers) — a C project about keeping philosophers alive - a 42 Project
+- Improving my [libft-projects](https://github.com/MiguelAzuaga/libft-projects) — a custom C library for all 42 projects
+- Building tools and testers in Shell
 
 ---
 
-### 📫 Contact Me
-- 💌 [miguel.q.azuaga@gmail.com](mailto:miguel.q.azuaga@gmail.com)
-- 🐙 [GitHub](https://github.com/MiguelAzuaga)
+### Contact Me
+<p align="left">
+  <a href="https://www.linkedin.com/in/miguelazuaga/" target="_blank" style="text-decoration: none;">
+    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:miguel.q.azuaga@gmail.com" style="text-decoration: none;">
+    <img src="https://skillicons.dev/icons?i=gmail" alt="Email" />
+  </a>
+</p>
 
 ---
 
-> “Simplicity is the soul of efficiency.” — Austin Freeman
