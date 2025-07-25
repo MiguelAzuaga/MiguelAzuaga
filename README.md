@@ -7,7 +7,7 @@
 <p align="left">
   <p align="left">
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=c,cpp,gamemakerstudio,git,github,vscode,linux" />
+      <img src="https://skillicons.dev/icons?i=c,cpp,html,css,gamemakerstudio,git,github,vscode,linux" />
     </a>
   </p>
   <!--<img src="https://img.shields.io/badge/GameMaker-000000?style=for-the-badge&logo=yo&logoColor=white" alt="GameMaker" />-->
@@ -24,12 +24,13 @@
 
 ### Contact Me
 <p align="left">
-  <a href="https://www.linkedin.com/in/miguelazuaga/" target="_blank" style="text-decoration: none;">
-    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:miguel.q.azuaga@gmail.com" style="text-decoration: none;">
-    <img src="https://skillicons.dev/icons?i=gmail" alt="Email" />
-  </a>
+  <a href="https://www.linkedin.com/in/miguelazuaga/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn"/><!--
+  --></a>
+  &nbsp;
+  <a href="mailto:miguel.q.azuaga@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" alt="Email"/><!--
+  --></a>
 </p>
 
 ---
